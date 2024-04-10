@@ -1,2 +1,2 @@
-# script
-ScriptBladeSlayer
+# Script ByEquipHub
+
